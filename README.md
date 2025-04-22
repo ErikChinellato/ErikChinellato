@@ -10,7 +10,7 @@ Research activity and interests:
 Thesis: WIP
 
 ### Projects
-[test](PhD/)
+[test](../PhD/)
 
 
 ## Contacts
