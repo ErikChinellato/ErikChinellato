@@ -6,7 +6,8 @@ Member of the [iNEST](https://www.consorzioinest.it/#inest) Spoke 9 team researc
 Research activity and interests:
 - Machine learning algorithms for embedded systems;
 - Deep Unfolding technique for interpretable deep neural networks;
-- Dictionary learning algorithms for the monitoring of machines and processes.\  
+- Dictionary learning algorithms for the monitoring of machines and processes.
+ 
 Thesis: WIP
  
 ### Projects
