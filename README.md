@@ -2,7 +2,7 @@
 
 ## PhD 
 Applied and Computational Mathematics at Università degli Studi di Padova (UNIPD), Mathematics Department "Tullio Levi-Civita".
-Member of the [iNEST Spoke 9 team](https://inest.spoke9.sissa.it/it/il-team-dello-spoke-9/) researching models, methods, and computing technologies for Digital Twins.
+Member of the [iNEST](https://www.consorzioinest.it/#inest) Spoke 9 team researching models, methods, and computing technologies for Digital Twins.
 Research activity and interests:
 - Machine learning algorithms for embedded systems;
 - Deep Unfolding technique for interpretable deep neural networks;
