@@ -11,7 +11,7 @@ Research activity and interests:
 Thesis: WIP
 
 ### Projects
-[test](https://github.com/ErikChinellato/PhD/README.md)
+[test](https://github.com/ErikChinellato/PhD)
 
 
 ## Contacts
