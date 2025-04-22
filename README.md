@@ -12,7 +12,7 @@ Thesis: WIP
 
 ### Projects
 A (non-exhaustive) collection of projects I worked on during my PhD can be found [here](https://github.com/ErikChinellato/PhD). They include:
-
+- DKF - Deep Kalman Filter: A machine learning reinterpretation of the Kalman Filter based on the Deep Unfolding technique. Extends applicability of the Kalman Filter beyond traditional settings. Can be used to 1) perform state estimation, 2) fix mismatched model parameters and 3) discover unmodelled dynamics. An ad-hoc regularization process is employed to manage all components of the algorithm. 
 
 ## Contacts
 - [LinkedIn](www.linkedin.com/in/erik-chinellato-200757357)
