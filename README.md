@@ -11,7 +11,7 @@ Research activity and interests:
 Thesis: WIP
 
 ### Projects
-[test](https://github.com/ErikChinellato/PhD)
+A (non-exhaustive) collection of projects I worked on during my PhD can be found [here](https://github.com/ErikChinellato/PhD). They include:
 
 
 ## Contacts
