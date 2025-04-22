@@ -7,10 +7,11 @@ Research activity and interests:
 - Machine learning algorithms for embedded systems;
 - Deep Unfolding technique for interpretable deep neural networks;
 - Dictionary learning algorithms for the monitoring of machines and processes.
+  
 Thesis: WIP
 
 ### Projects
-[test](PhD/README.md)
+[test](../PhD/README.md)
 
 
 ## Contacts
