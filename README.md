@@ -1,15 +1,12 @@
 # Erik Chinellato, PhD Researcher
 
 ## PhD 
-Applied and Computational Mathematics at Università degli Studi di Padova (UNIPD), Mathematics Department "Tullio Levi-Civita".
-
-Member of the [iNEST](https://www.consorzioinest.it/#inest) Spoke 9 team researching models, methods, and computing technologies for Digital Twins.
-
+Applied and Computational Mathematics at Università degli Studi di Padova (UNIPD), Mathematics Department "Tullio Levi-Civita".\
+Member of the [iNEST](https://www.consorzioinest.it/#inest) Spoke 9 team researching models, methods, and computing technologies for Digital Twins.\
 Research activity and interests:
 - Machine learning algorithms for embedded systems;
 - Deep Unfolding technique for interpretable deep neural networks;
-- Dictionary learning algorithms for the monitoring of machines and processes.
-  
+- Dictionary learning algorithms for the monitoring of machines and processes.\  
 Thesis: WIP
  
 ### Projects
