@@ -19,7 +19,7 @@ A (non-exhaustive) collection of projects I worked on during my PhD can be found
   - E. Chinellato and F. Marcuzzi, “Hit detection in audio mixtures by means of a physics-aware Deep-NMF algorithm”, Mechanical Systems and Signal Processing (2025). [🔗](https://doi.org/10.1016/j.ymssp.2024.112162)
   - E. Chinellato, F. Marcuzzi, and P. Martin, “Real-Time Generation of a Targeted Clean Audio Sequence from Source Separation of Noisy Environmental Mixtures Using a Deep Nonnegative Matrix Factorization on IOT Devices”, in ICT for Intelligent Systems (2024). [🔗](https://doi.org/10.1007/978-981-97-5810-4_23)
 - DNMFD - Deep NMFD: An unfolded NMFD (Nonnegative Matrix Factor Deconvolution) algorithm for audio source separation and hit detection within general mixtures.
-  - E. Chinellato and F. Marcuzzi, “Deep Unfolding for Scientific Computing on Embedded Systems”, Accepted, (2025).]
+  - E. Chinellato and F. Marcuzzi, “Deep Unfolding for Scientific Computing on Embedded Systems”, Accepted, (2025). [🔗]
 - DKSVD - Deep K-SVD: An unfolded version of ISTA for image denoising.
   - Original article: Deep K-SVD Denoising. [🔗](https://arxiv.org/abs/1909.13164)
 
