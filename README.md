@@ -1,3 +1,8 @@
 ## Erik Chinellato, PhD Researcher
 
-# Test
+# PhD 
+
+# Contacts
+- test
+- test
+
