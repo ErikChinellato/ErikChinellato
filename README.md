@@ -10,10 +10,10 @@ Research activity and interests:
 Thesis: WIP
 
 ### Projects
-[test](../PhD/)
+[test](./PhD)
 
 
 ## Contacts
 - [LinkedIn](www.linkedin.com/in/erik-chinellato-200757357)
-- [e-mail](mailto:chinellato.erik@gmail.com)
+- [E-Mail](mailto:chinellato.erik@gmail.com)
 
